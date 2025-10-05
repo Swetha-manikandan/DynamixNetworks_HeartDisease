@@ -10,20 +10,6 @@ The goal is to analyze clinical features that influence heart disease and visual
 
 ---
 
-## 📁 Project Structure
-heart-disease-powerbi/
-│
-├── data/
-│ └── heart_disease.csv # Cleaned dataset used for visualization
-│
-├── reports/
-│ └── Heart_Disease.pbix # Power BI report file
-│
-├── visuals/
-│ └── dashboard_preview.png # Screenshot of the dashboard
-│
-└── README.md # Project documentation
-
 ## 📊 Dataset Overview
 
 - **Source:** [UCI Heart Disease Dataset via Kaggle](https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci)
@@ -55,8 +41,7 @@ The Power BI report includes:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/heart-disease-powerbi.git
-cd heart-disease-powerbi
+git clone https://github.com/swetha-manikandan/DynamixNetworks_HeartDisease
 
 ### 2. Open the Power BI File
 
