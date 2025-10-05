@@ -35,9 +35,6 @@ The Power BI report includes:
 - **CSV dataset (Kaggle/UCI)**
 
 ---
-
-## 🚀 Getting Started
-
 ### 1. Clone the Repository
 
 ```bash
